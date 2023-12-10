@@ -7,10 +7,6 @@
 
 **注意：升级不会保留原有自己安装的 app ，还需升级后自行按需安装**
 
-固件页面
-
-![image](https://raw.githubusercontent.com/gd0772/AutoBuild-OpenWrt/main/img/opimg.png)
-
 # 感谢
 - [大雕 源码仓库](https://github.com/coolsnowwolf/lede.git)
 - [Lienol 源码仓库](https://github.com/Lienol/openwrt.git)
