@@ -7,10 +7,6 @@
 
 **注意：升级不会保留原有自己安装的 app ，还需升级后自行按需安装**
 
-| 默认登陆IP  | 默认账号 | 默认密码 |
-| ---- | ---- | ---- |
-| 192.168.123.254 | root | password |
-
 固件页面
 
 ![image](https://raw.githubusercontent.com/gd0772/AutoBuild-OpenWrt/main/img/opimg.png)
