@@ -3,6 +3,7 @@
 # DIY扩展 在此脚本 增加插件
 
 bash <(curl -Lso- https://raw.githubusercontent.com/gd0772/patch/main/x86.sh)
+
 # 后台IP设置
 export Ipv4_ipaddr="10.0.0.2"            # 修改openwrt后台地址(填0为关闭)
 export Netmask_netm="255.255.255.0"         # IPv4 子网掩码（默认：255.255.255.0）(填0为不作修改)
